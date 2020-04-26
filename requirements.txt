@@ -13,7 +13,7 @@ olefile==0.44
 Pillow==4.3.0
 pysrt==1.1.1
 pytube==6.4.2
-requests==2.18.4
+requests==2.20.0
 six==1.11.0
 sumy==0.7.0
 tqdm==4.11.2
