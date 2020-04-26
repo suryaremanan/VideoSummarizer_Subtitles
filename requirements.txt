@@ -7,7 +7,7 @@ idna==2.6
 imageio==2.2.0
 lxml==4.0.0
 moviepy==0.2.3.2
-nltk==3.2.5
+nltk==3.4.5
 numpy==1.13.3
 olefile==0.44
 Pillow==4.3.0
